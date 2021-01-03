@@ -23,7 +23,7 @@ laravel6のポートフォリオです。
 
 ## Deployment
 AWSで公開しています  
-<http://myALB1-7885286.ap-northeast-1.elb.amazonaws.com>
+<https://www.tayutayu.work>  
 画像の保存先にS3、DBにRDSを使用しています。
 
 CircleCiとAWS Code Deployでテスト後に自動でプロイしています。
