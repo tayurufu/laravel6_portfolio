@@ -21,9 +21,12 @@ laravel6のポートフォリオです。
 * spatie/laravel-permission 3.*
 * mySql 5.7
 
+<!--
 ## Deployment
+現在停止中
 AWSで公開しています  
 <https://www.tayutayu.work>  
 画像の保存先にS3、DBにRDSを使用しています。
 
 CircleCiとAWS Code Deployでテスト後に自動でプロイしています。
+-->
